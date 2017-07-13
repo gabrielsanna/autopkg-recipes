@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads latest Sequel Pro disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.mathworks.pkg.sequelpro</string>
+    <string>com.gabrielsanna.pkg.sequelpro</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>SequelPro</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.mathworks.download.sequelpro</string>
+    <string>com.gabrielsanna.download.sequelpro</string>
     <key>Process</key>
     <array>
         <dict>
